@@ -1,0 +1,1 @@
+This folder contains filtered udp data that is used for detour & fec case study.

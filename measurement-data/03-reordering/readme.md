@@ -1,0 +1,1 @@
+This folder contains filtered udp data that is used to calculate reordering.

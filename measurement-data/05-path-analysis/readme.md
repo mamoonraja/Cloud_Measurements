@@ -1,0 +1,1 @@
+This folder contains filtered traceroute data that is used for path analysis.

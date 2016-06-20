@@ -1,0 +1,1 @@
+This folder contains filtered iPerf data that is used to calculate bandwidth properties.
