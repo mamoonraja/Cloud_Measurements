@@ -1,0 +1,1 @@
+This folder contains filtered ICMP and udp data that is used to calculate loss rate, episodes characteristics and correlation.
