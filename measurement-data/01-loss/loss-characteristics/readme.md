@@ -1,1 +1,1 @@
-Please contact osama.haq at gmail.com for raw data.
+This is summary of the raw data. Please contact osama.haq at gmail.com for raw data.
